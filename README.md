@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Gabriel Lobato
-- 👀 I’m interested in everything new
-- 🌱 I’m currently learning Javascript
+- 👋 Desenvolvedor Front-End
+- 👀 Estou sempre buscando conhecimentos em novas funcionalidades e ferramentas digitais implementadas no mercado de trabalho
+- 🌱 Atualmente aprimorando meu conhecimento em Javascript
 
-- 📫 How to reach me 
-- 📷 Instagram: @gbiel.lobato
-- 📱 Twitter: @gab.lobato
+- Como entrar em contato comigo:
+- 📫 E-mail: gabrielnlobato@gmail.com
 - 💻 Linkedin: https://www.linkedin.com/in/gabriel-lobato-384a89206/
 
 <!---
