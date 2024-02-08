@@ -1,4 +1,4 @@
-- 👋 Desenvolvedor Front-End
+- 👋 Desenvolvedor Web
 - 👀 Estou sempre buscando conhecimentos em novas funcionalidades e ferramentas digitais implementadas no mercado de trabalho
 - 🌱 Atualmente aprimorando meu conhecimento em Javascript
 
