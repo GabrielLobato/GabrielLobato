@@ -1,6 +1,6 @@
 - 👋 Desenvolvedor Web
 - 👀 Estou sempre buscando conhecimentos em novas funcionalidades e ferramentas digitais implementadas no mercado de trabalho
-- 🌱 Atualmente aprimorando meu conhecimento em Javascript
+- 🌱 Atualmente aprimorando meus conhecimentos em Javascript, React e Node
 
 - Como entrar em contato comigo:
 - 📫 E-mail: gabrielnlobato@gmail.com
